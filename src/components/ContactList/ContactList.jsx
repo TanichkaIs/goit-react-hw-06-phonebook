@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import { ContactItem } from 'components/ContactItem/ContactItem';
 import { nanoid } from 'nanoid';
 import { useSelector } from 'react-redux';
